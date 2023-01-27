@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 function NearEarthObject() {
 
     const [nearEarth , setNearEarth] = useState([])
-    const[dataArray,setArray] = useState([])
+   // const[dataArray,setArray] = useState([])
 
         
   useEffect(() => {
