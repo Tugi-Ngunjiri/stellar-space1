@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-
+import './MarsWeather.css'
 
 function MarsWeather(){
 
