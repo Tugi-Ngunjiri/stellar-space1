@@ -1,13 +1,48 @@
 body{
   background-color: rgb(116, 117, 198);
 }
+
+
+h1{
+
+background-color: rgb(243, 215, 250);
+
+}
+
+h2{
+background-color:rgb(243, 215, 250) ;
+
+}
+
+h3{
+background-color:rgb(243, 215, 250) ;
+
+}
+h4{
+background-color:rgb(243, 215, 250) ;
+
+}
+
+h5{
+background-color:rgb(243, 215, 250) ;
+
+}
+
+h6{
+background-color:rgb(243, 215, 250) ;
+
+
+
+}
+
+
 table{
   width: 300%;
   border-collapse: collapse;
   border: 1px solid #000;
 }
 th{
-  background-color:blueviolet;
+  background-color:rgb(187, 162, 211);
   height: 70px;
   text-align: left;
   border: 1px solid #000;
@@ -26,7 +61,7 @@ td{
 }
 
 tr:nth-child(even){
-background-color:blueviolet ;
+background-color: rgb(187, 162, 211);
 }
 #pics{
   width: 400px;
