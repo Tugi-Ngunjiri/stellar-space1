@@ -52,7 +52,7 @@ Open the application by navigating into this link
  - [Communication channels](https://app.slack.com/client/T0101L740P4/D04C40BEAG2)
  
 ## License
-
+ISC
 
 
 
