@@ -26,7 +26,6 @@ Stellar space application is an application that visualizes space activities and
 ## Application
 
 Open the application by navigating into this link
-https://stellar-space1-f9p2rs4z1-tugi-ngunjiri.vercel.app/
 
 
 
